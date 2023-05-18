@@ -1,0 +1,11 @@
+a{
+    color: white;
+    text-decoration: none;
+}
+.active{
+    color: #fbb731;
+}
+
+.container{
+    display: flex;
+}
